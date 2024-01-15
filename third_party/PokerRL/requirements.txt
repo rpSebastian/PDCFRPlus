@@ -1,0 +1,7 @@
+gym==0.10.9
+numpy
+pandas
+psutil
+requests
+pycrayon==0.5
+torch

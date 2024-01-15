@@ -1,0 +1,12 @@
+autoflake
+black
+isort
+open_spiel
+pre-commit
+pygraphviz
+pytest
+seaborn
+tqdm
+sacred
+wandb
+tensorboard
