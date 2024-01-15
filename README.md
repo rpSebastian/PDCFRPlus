@@ -11,7 +11,7 @@ bash scripts/install.sh
 
 ## Test PDCFRPlus
 
-Run the following script to assess the perforamce of CFR variants on testing games. The results are saved in the folder `results`.
+Run the following script to assess the performance of CFR variants on testing games. The results are saved in the folder `results`.
 ```bash
 conda activate PDCFRPlus
 python scripts/parallel_run.py --algo CFRPlus
