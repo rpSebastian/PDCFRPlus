@@ -1,8 +1,8 @@
 # Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent
 
 > Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent <br>
-> Hang Xu<sup>\*</sup> , Kai Li<sup>\*,\#</sup>, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing<sup>#</sup>, Jian Cheng <br>
-> IJCAI 2024
+> Hang Xu, Kai Li<sup>\#</sup>, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing<sup>#</sup>, Jian Cheng <br>
+> IJCAI 2024 (Oral)
 
 ## Install PDCFRPlus
 
