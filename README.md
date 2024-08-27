@@ -26,6 +26,18 @@ python scripts/parallel_run.py --algo DCFRPlus --gamma=4 --alpha=1.5
 python scripts/parallel_run.py --algo PDCFRPlus --gamma=5 --alpha=2.3
 ```
 
+## Citing
+If you use PDCFRPlus in your research, you can cite it as follows:
+```
+@inproceedings{PDCFRPlus,
+  title     = {Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent},
+  author    = {Hang, Xu and Kai, Li and Bingyun, Liu and Haobo, Fu and Qiang, Fu and Junliang, Xing and Jian Cheng},
+  booktitle = {International Joint Conference on Artificial Intelligence},
+  year      = {2024},
+  pages     = {5272--5280}
+}
+```
+
 ## References
 
 [1] Lanctot, M.; Lockhart, E.; Lespiau, J.-B.; Zambaldi, V.; Upadhyay, S.; P´erolat, J.; Srinivasan, S.; Timbers, F.; Tuyls, K.; Omidshafiei, S.; Hennes, D.; Morrill, D.; Muller, P.; Ewalds, T.; Faulkner, R.; Kram´ar, J.; Vylder, B. D.; Saeta, B.; Bradbury, J.; Ding, D.; Borgeaud, S.; Lai, M.; Schrittwieser, J.; Anthony, T.; Hughes, E.; Danihelka, I.; and Ryan-Davis, J. 2019. OpenSpiel: A Framework for Reinforcement Learning in Games. CoRR, abs/1908.09453.
